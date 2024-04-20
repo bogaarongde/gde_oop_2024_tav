@@ -1,3 +1,3 @@
-nev:
-szak:
-neptun-kód:
+nev: Boga Áron
+szak: aefa
+neptun-kód: adfa
